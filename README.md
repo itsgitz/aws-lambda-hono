@@ -1,2 +1,8 @@
-# aws-lambda-hono
-Deploy Hono web framework to AWS Lambda using only .zip deployment package with dependencies
+# AWS Lambda - Hono
+Deploy Hono web framework to AWS Lambda using only .zip deployment package with dependencies.
+
+# Usage
+```
+$ yarn install
+$ yarn run deploy
+```
